@@ -208,8 +208,8 @@ export default function ServicesSection() {
                 maxVh={92}
               >
                 <ServiceImage
-                  src1x="/images/bridesmaids.jpg"
-                  src2x="/images/bridesmaids.jpg"
+                  src1x="/images/Bridesmaids.jpg"
+                  src2x="/images/Bridesmaids.jpg"
                   alt="Bridesmaids"
                   bg="bg-coral/10"
                 />
